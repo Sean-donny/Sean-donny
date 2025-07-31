@@ -1,4 +1,4 @@
-# 👋 Hi, Patrick
+# 👋 Hi, Patrick here
 
 I'm a Front-end developer, visual artist, and maker of interactive experiences.
 
